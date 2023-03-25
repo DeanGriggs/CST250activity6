@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\bin\Debug\ListUI.exe.config
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\bin\Debug\ListUI.exe
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\bin\Debug\ListUI.pdb
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.Form1.resources
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.Properties.Resources.resources
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.exe
+C:\Users\User\Desktop\CST-250\Week 6\ListUI\obj\Debug\ListUI.pdb

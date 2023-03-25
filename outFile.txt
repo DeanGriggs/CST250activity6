@@ -1,0 +1,4 @@
+Clark,Kent,www.iamnotsuperman.com
+Bruce,Wayne,www.sowhatiambatman.com
+tony,stark,www.iamironman.com
+Peter,Parker,www.spidey.com
